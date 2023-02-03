@@ -1,1 +1,1 @@
-web: npm kek
+web: npm run strapi start
